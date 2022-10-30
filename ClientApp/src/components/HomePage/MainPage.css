@@ -1,0 +1,159 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+/* body {
+    background: url(mountains.png) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+} */
+
+img.bg {
+    /* Set rules to fill background */
+    min-height: 100%;
+    min-width: 1024px;
+
+    /* Set up proportionate scaling */
+    width: 100%;
+    height: auto;
+
+    /* Set up positioning */
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+.mainTitle {
+    font-size: 6em;
+    font-weight: bolder;
+}
+.main {
+    margin-left: 1.5em;
+    margin-right: 1.5em;
+    padding-top: 8em;
+}
+
+.mainSubTitle {
+    font-size: 2em;
+    margin-top: -0.75em;
+}
+
+/* 1630 */
+.button1 {
+    margin: 0;
+    padding: 0;
+    height: auto;
+    width: auto;
+    font-size: auto;
+    align-items: center;
+    position: relative;
+}
+
+.mapPageHeader {
+    display: flex;
+
+    align-items: center;
+}
+
+.mapBox {
+    margin-top: 10em;
+    border-right: 1px;
+    border-bottom: 1px;
+    border-top: 0.1px;
+    border-left: 0.1px;
+    border-color: grey;
+    border-style: solid;
+    border-radius: 10%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1), 0px 2px 5px rgba(0, 0, 0, 0.5);
+    border-radius: 4px;
+}
+
+.topBar {
+    display: inline-flex;
+    align-items: center;
+    font-size: 3em;
+    margin-top: 0.1em;
+    left: 0;
+    margin-left: 6em;
+    margin-top: 0.5em;
+}
+
+.buttonHouse {
+    display: flex;
+    flex-direction: row;
+    margin-top: 1em;
+    gap: 1em;
+    margin-left: 0;
+    max-width: 600px;
+}
+
+.bouncy {
+    animation: bouncy 5s infinite linear;
+    position: relative;
+}
+@keyframes bouncy {
+    0% {
+        top: 0em;
+    }
+    40% {
+        top: 0em;
+    }
+    43% {
+        top: -0.9em;
+    }
+    46% {
+        top: 0em;
+    }
+    48% {
+        top: -0.4em;
+    }
+    50% {
+        top: 0em;
+    }
+    100% {
+        top: 0em;
+    }
+}
+
+button {
+    margin: 0;
+    padding: 0;
+    padding-right: 1em;
+}
+@media screen and (max-width: 1200px) {
+    .main {
+        padding-top: 10em;
+    }
+    .mapBox {
+        margin-top: 7.5em;
+    }
+}
+@media screen and (max-width: 1024px) {
+    /* Specific to this particular image */
+    img.bg {
+        left: 50%;
+        margin-left: -512px; /* 50% */
+    }
+}
+
+@media screen and (max-width: 889px) {
+    div.main {
+        padding-top: 2em;
+    }
+}
+@media screen and (max-width: 600px) {
+    div.buttonHouse {
+        display: flex;
+        margin-top: 1em;
+        gap: 1em;
+        margin-left: 3em;
+        margin-right: 3em;
+        flex-direction: column;
+    }
+    div.main {
+        padding-top: 0.5em;
+        padding-bottom: 0.5em;
+    }
+}

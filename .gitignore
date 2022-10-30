@@ -1,2 +1,7 @@
 appsettings.json
 appsettings.Development.json
+certkey.cer
+launchSettings.json
+AWSCLIV2.pkg
+.env
+.env.development

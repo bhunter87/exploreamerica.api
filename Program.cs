@@ -26,15 +26,32 @@ builder.Services.AddDbContext<MyContext>(options =>
 var provider = builder.Services.BuildServiceProvider();
 var configuration = provider.GetRequiredService<IConfiguration>();
 
-builder.Services.AddCors(options =>
-{
-    var frontendURL = configuration.GetValue<string>("frontend_url");
-
-    options.AddDefaultPolicy(builder =>
-    {
-        builder.WithOrigins(frontendURL).AllowAnyMethod().AllowAnyHeader();
-    });
+builder.Services.AddCors(opt => {
+    opt.AddPolicy(name: "CorsPolicy", builder =>
+            {
+                builder.AllowAnyOrigin()
+                    .AllowAnyHeader()
+                    .AllowAnyMethod();
+            });
 });
+
+
+
+
+// builder.Services.AddCors(options =>
+// {
+    
+//     var frontendURL = configuration.GetValue<string>("frontend_url");
+
+//     options.AddDefaultPolicy(builder =>
+//     {
+//         builder.WithOrigins(frontendURL).AllowAnyMethod().AllowAnyHeader().AllowAnyOrigin().SetIsOriginAllowed(origin => true).SetIsOriginAllowedToAllowWildcardSubdomains().WithHeaders("Access-Control-Allow-Origin", "*");
+        
+        
+//     });
+// });
+
+
 
 
 var app = builder.Build();
@@ -49,7 +66,7 @@ if (app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
-
+app.UseCors("CorsPolicy");
 app.MapControllers();
 
 app.Run();

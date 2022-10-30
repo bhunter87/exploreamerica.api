@@ -1,4 +1,3 @@
-/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/appsettings.Development.json
 /Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/appsettings.json
 /Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/exploreamerica.api
 /Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/exploreamerica.api.deps.json
@@ -34,3 +33,109 @@
 /Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/obj/Debug/net6.0/exploreamerica.api.pdb
 /Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/obj/Debug/net6.0/exploreamerica.api.genruntimeconfig.cache
 /Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/obj/Debug/net6.0/ref/exploreamerica.api.dll
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/appsettings.development.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/package-lock.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/package.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/CompleteState/AlabamaFinal.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/CompleteState/AlaskaFinal.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/CompleteState/ArizonaFinal.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/CompleteState/ArkansasFinal.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/CompleteState/CaliforniaFinal.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/CompleteState/ColoradoFinal.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/CompleteState/ConnecticutFinal.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/CompleteState/DelawareFinal.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/CompleteState/FloridaFinal.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/CompleteState/GeorgiaFinal.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/CompleteState/HawaiiFinal.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/CompleteState/IdahoFinal.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/CompleteState/IllinoisFinal.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/CompleteState/IndianaFinal.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/CompleteState/IowaFinal.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/CompleteState/KansasFinal.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/CompleteState/KentuckyFinal.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/CompleteState/LouisianaFinal.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/CompleteState/MaineFinal.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/CompleteState/MarylandFinal.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/CompleteState/MassachusettsFinal.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/CompleteState/MichiganFinal.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/CompleteState/MinnesotaFinal.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/CompleteState/MississippiFinal.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/CompleteState/MissouriFinal.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/CompleteState/MontanaFinal.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/CompleteState/NationalForests.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/CompleteState/NebraskaFinal.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/CompleteState/NevadaFinal.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/CompleteState/New HampshireFinal.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/CompleteState/New JerseyFinal.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/CompleteState/New MexicoFinal.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/CompleteState/New YorkFinal.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/CompleteState/North CarolinaFinal.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/CompleteState/North DakotaFinal.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/CompleteState/OhioFinal.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/CompleteState/OklahomaFinal.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/CompleteState/OregonFinal.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/CompleteState/PennsylvaniaFinal.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/CompleteState/Rhode IslandFinal.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/CompleteState/South CarolinaFinal.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/CompleteState/South DakotaFinal.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/CompleteState/TennesseeFinal.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/CompleteState/TexasFinal.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/CompleteState/UtahFinal.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/CompleteState/VermontFinal.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/CompleteState/VirginiaFinal.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/CompleteState/WashingtonFinal.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/CompleteState/West VirginiaFinal.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/CompleteState/WisconsinFinal.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/CompleteState/WyomingFinal.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/manifest.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/STATES copy/Alabama.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/STATES copy/Arizona.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/STATES copy/Arkansas.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/STATES copy/California.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/STATES copy/Colorado.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/STATES copy/Connecticut.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/STATES copy/Delaware.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/STATES copy/Florida.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/STATES copy/Georgia.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/STATES copy/Idaho.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/STATES copy/Illinois.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/STATES copy/Indiana.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/STATES copy/Iowa.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/STATES copy/Kansas.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/STATES copy/Kentucky.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/STATES copy/Louisiana.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/STATES copy/Maine.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/STATES copy/Maryland.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/STATES copy/Massachusetts.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/STATES copy/Michigan.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/STATES copy/Minnesota.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/STATES copy/Mississippi.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/STATES copy/Missouri.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/STATES copy/Montana.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/STATES copy/Nebraska.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/STATES copy/Nevada.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/STATES copy/New Hampshire.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/STATES copy/New Jersey.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/STATES copy/New Mexico.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/STATES copy/New York.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/STATES copy/North Carolina.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/STATES copy/North Dakota.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/STATES copy/Ohio.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/STATES copy/Oklahoma.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/STATES copy/Oregon.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/STATES copy/Pennsylvania.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/STATES copy/Rhode Island.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/STATES copy/South Carolina.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/STATES copy/South Dakota.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/STATES copy/Tennessee.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/STATES copy/Texas.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/STATES copy/Utah.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/STATES copy/Vermont.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/STATES copy/Virginia.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/STATES copy/Washington.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/STATES copy/West Virginia.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/STATES copy/Wisconsin.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/public/STATES copy/Wyoming.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/src/components/GoogleMap/GoogleMapsStyle.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/src/components/test.json
+/Users/blakehunter/Documents.nosync/CSHARP/exploreamerica.api/bin/Debug/net6.0/ClientApp/src/scripts/NationalParks.json

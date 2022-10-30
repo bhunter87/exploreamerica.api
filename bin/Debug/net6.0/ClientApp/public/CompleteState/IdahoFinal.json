@@ -1,0 +1,450 @@
+{
+    "Bear Lake State Park": {
+        "formatted_address": "1767 Eastshore Rd, St Charles, ID 83272, United States",
+        "geometry": {
+            "location": { "lat": 42.0292241, "lng": -111.2581986 },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.03058877989272,
+                    "lng": -111.2568476201073
+                },
+                "southwest": {
+                    "lat": 42.02788912010728,
+                    "lng": -111.2595472798927
+                }
+            }
+        },
+        "name": "Bear Lake State Park",
+        "opening_hours": { "open_now": false },
+        "rating": 4.6
+    },
+    "Bruneau Dunes State Park": {
+        "formatted_address": "27608 Bruneau Sand Dunes Rd, Bruneau, ID 83604, United States",
+        "geometry": {
+            "location": { "lat": 42.9111653, "lng": -115.7150834 },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.91253577989273,
+                    "lng": -115.7137170201073
+                },
+                "southwest": {
+                    "lat": 42.90983612010729,
+                    "lng": -115.7164166798927
+                }
+            }
+        },
+        "name": "Bruneau Dunes State Park",
+        "opening_hours": { "open_now": true },
+        "rating": 4.5
+    },
+    "Castle Rocks State Park": {
+        "formatted_address": "Idaho, USA",
+        "geometry": {
+            "location": { "lat": 44.0682019, "lng": -114.7420408 },
+            "viewport": {
+                "northeast": { "lat": 49.0008462, "lng": -111.043495 },
+                "southwest": { "lat": 41.9880051, "lng": -117.243027 }
+            }
+        },
+        "name": "Idaho"
+    },
+    "City of Rocks National Reserve": {
+        "formatted_address": "Almo, ID 83312, United States",
+        "geometry": {
+            "location": { "lat": 42.0727057, "lng": -113.7037854 },
+            "viewport": {
+                "northeast": { "lat": 42.09847774999999, "lng": -113.6281448 },
+                "southwest": { "lat": 42.05177474999999, "lng": -113.78382 }
+            }
+        },
+        "name": "City of Rocks National Reserve",
+        "opening_hours": { "open_now": true },
+        "rating": 4.8
+    },
+    "Coeur d'Alenes Parkway State Park": {
+        "formatted_address": "E Coeur D'Alenes Lake Dr, Coeur d'Alenes, ID 83814, United States",
+        "geometry": {
+            "location": { "lat": 47.629844, "lng": -116.6881354 },
+            "viewport": {
+                "northeast": {
+                    "lat": 47.63113417989272,
+                    "lng": -116.6868256201073
+                },
+                "southwest": {
+                    "lat": 47.62843452010728,
+                    "lng": -116.6895252798927
+                }
+            }
+        },
+        "name": "Coeur d'Alenes Parkway State Park",
+        "opening_hours": { "open_now": true },
+        "rating": 4.7
+    },
+    "Dworshak State Park": {
+        "formatted_address": "Lenore, ID 83541, United States",
+        "geometry": {
+            "location": { "lat": 46.57587119999999, "lng": -116.2770965 },
+            "viewport": {
+                "northeast": {
+                    "lat": 46.57692952989272,
+                    "lng": -116.2754331701073
+                },
+                "southwest": {
+                    "lat": 46.57422987010727,
+                    "lng": -116.2781328298927
+                }
+            }
+        },
+        "name": "Dworshak State Park",
+        "rating": 4.3
+    },
+    "Eagle Island State Park": {
+        "formatted_address": "165 Eagle Island Pkwy, Eagle, ID 83616, United States",
+        "geometry": {
+            "location": { "lat": 43.6907816, "lng": -116.3942128 },
+            "viewport": {
+                "northeast": {
+                    "lat": 43.69226367989273,
+                    "lng": -116.3927459201072
+                },
+                "southwest": {
+                    "lat": 43.68956402010728,
+                    "lng": -116.3954455798927
+                }
+            }
+        },
+        "name": "Eagle Island State Park",
+        "rating": 4.6
+    },
+    "Farragut State Park": {
+        "formatted_address": "13550 ID-54, Athol, ID 83801, United States",
+        "geometry": {
+            "location": { "lat": 47.9531602, "lng": -116.5864409 },
+            "viewport": {
+                "northeast": { "lat": 47.98672825, "lng": -116.5474698 },
+                "southwest": { "lat": 47.91972484999999, "lng": -116.6349666 }
+            }
+        },
+        "name": "Farragut State Park",
+        "opening_hours": { "open_now": false },
+        "rating": 4.6
+    },
+    "Harriman State Park": {
+        "formatted_address": "3489 Green Canyon Rd, Island Park, ID 83429, United States",
+        "geometry": {
+            "location": { "lat": 44.3226102, "lng": -111.460365 },
+            "viewport": {
+                "northeast": {
+                    "lat": 44.32396092989272,
+                    "lng": -111.4590141701073
+                },
+                "southwest": {
+                    "lat": 44.32126127010727,
+                    "lng": -111.4617138298927
+                }
+            }
+        },
+        "name": "Harriman State Park",
+        "opening_hours": { "open_now": true },
+        "rating": 4.8
+    },
+    "Hells Gate State Park": {
+        "formatted_address": "5100 Hells Gate Rd, Lewiston, ID 83501, United States",
+        "geometry": {
+            "location": { "lat": 46.36800849999999, "lng": -117.0571622 },
+            "viewport": {
+                "northeast": {
+                    "lat": 46.36937672989272,
+                    "lng": -117.0558516201073
+                },
+                "southwest": {
+                    "lat": 46.36667707010727,
+                    "lng": -117.0585512798928
+                }
+            }
+        },
+        "name": "Hells Gate State Park",
+        "opening_hours": { "open_now": false },
+        "rating": 4.5
+    },
+    "Henrys Lake State Park": {
+        "formatted_address": "3917 E. 5100 N, Island Park, ID 83429, United States",
+        "geometry": {
+            "location": { "lat": 44.6181621, "lng": -111.3681632 },
+            "viewport": {
+                "northeast": {
+                    "lat": 44.61949937989272,
+                    "lng": -111.3668141701073
+                },
+                "southwest": {
+                    "lat": 44.61679972010728,
+                    "lng": -111.3695138298927
+                }
+            }
+        },
+        "name": "Henrys Lake State Park",
+        "opening_hours": { "open_now": true },
+        "rating": 4.6
+    },
+    "Heyburn State Park": {
+        "formatted_address": "1175 7th St, Heyburn, ID 83336, United States",
+        "geometry": {
+            "location": { "lat": 42.5455563, "lng": -113.7591017 },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.54692787989273,
+                    "lng": -113.7577390201073
+                },
+                "southwest": {
+                    "lat": 42.54422822010729,
+                    "lng": -113.7604386798927
+                }
+            }
+        },
+        "name": "Heyburn Riverside RV Park",
+        "rating": 4.5
+    },
+    "Lake Cascade State Park": {
+        "formatted_address": "100 Kelly's Pkwy, Cascade, ID 83611, United States",
+        "geometry": {
+            "location": { "lat": 44.507717, "lng": -116.0304147 },
+            "viewport": {
+                "northeast": { "lat": 44.50864022989272, "lng": -116.0296991 },
+                "southwest": { "lat": 44.50594057010728, "lng": -116.0325615 }
+            }
+        },
+        "name": "Lake Cascade State Park",
+        "opening_hours": { "open_now": false },
+        "rating": 4.6
+    },
+    "Lake Walcott State Park": {
+        "formatted_address": "959 Minidoka Dam Rd, Rupert, ID 83350, United States",
+        "geometry": {
+            "location": { "lat": 42.6750715, "lng": -113.4807816 },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.67640962989272,
+                    "lng": -113.4794484201073
+                },
+                "southwest": {
+                    "lat": 42.67370997010728,
+                    "lng": -113.4821480798927
+                }
+            }
+        },
+        "name": "Lake Walcott State Park",
+        "opening_hours": { "open_now": false },
+        "rating": 4.5
+    },
+    "Land of the Yankee Fork State Park": {
+        "formatted_address": "24424 State Hwy 75, Challis, ID 83226, United States",
+        "geometry": {
+            "location": { "lat": 44.475487, "lng": -114.2105674 },
+            "viewport": {
+                "northeast": {
+                    "lat": 44.47646367989272,
+                    "lng": -114.2088377201073
+                },
+                "southwest": {
+                    "lat": 44.47376402010728,
+                    "lng": -114.2115373798927
+                }
+            }
+        },
+        "name": "Land of Yankee Fork State Park",
+        "opening_hours": { "open_now": false },
+        "rating": 4.6
+    },
+    "Lucky Peak State Park": {
+        "formatted_address": "9725 ID-21, Boise, ID 83716, United States",
+        "geometry": {
+            "location": { "lat": 43.530185, "lng": -116.0593412 },
+            "viewport": {
+                "northeast": { "lat": 43.5322637, "lng": -116.0549671 },
+                "southwest": { "lat": 43.52394889999999, "lng": -116.0724635 }
+            }
+        },
+        "name": "Lucky Peak State Park",
+        "opening_hours": { "open_now": false },
+        "rating": 4.7
+    },
+    "Massacre Rocks State Park": {
+        "formatted_address": "3592 W Park St, American Falls, ID 83211, United States",
+        "geometry": {
+            "location": { "lat": 42.6809217, "lng": -112.9834936 },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.68227152989272,
+                    "lng": -112.9821437701073
+                },
+                "southwest": {
+                    "lat": 42.67957187010728,
+                    "lng": -112.9848434298927
+                }
+            }
+        },
+        "name": "Massacre Rocks State Park",
+        "rating": 4.6
+    },
+    "McCroskey State Park": {
+        "formatted_address": "Farmington, ID 99128, United States",
+        "geometry": {
+            "location": { "lat": 47.0730967, "lng": -116.9633445 },
+            "viewport": {
+                "northeast": { "lat": 47.07622375, "lng": -116.9618564201072 },
+                "southwest": {
+                    "lat": 47.07205434999999,
+                    "lng": -116.9645560798927
+                }
+            }
+        },
+        "name": "Mary M. McCroskey State Park",
+        "rating": 4.6
+    },
+    "Old Mission State Park": {
+        "formatted_address": "31732 S Mission Rd, Cataldo, ID 83810, United States",
+        "geometry": {
+            "location": { "lat": 47.549807, "lng": -116.358268 },
+            "viewport": {
+                "northeast": {
+                    "lat": 47.55081682989272,
+                    "lng": -116.3566116701073
+                },
+                "southwest": {
+                    "lat": 47.54811717010728,
+                    "lng": -116.3593113298927
+                }
+            }
+        },
+        "name": "Old Mission State Park",
+        "opening_hours": { "open_now": false },
+        "rating": 4.7
+    },
+    "Ponderosa State Park": {
+        "formatted_address": "1920 Davis Ave, McCall, ID 83638, United States",
+        "geometry": {
+            "location": { "lat": 44.9251352, "lng": -116.0897656 },
+            "viewport": {
+                "northeast": {
+                    "lat": 44.92668522989272,
+                    "lng": -116.0885735701073
+                },
+                "southwest": {
+                    "lat": 44.92398557010728,
+                    "lng": -116.0912732298927
+                }
+            }
+        },
+        "name": "Ponderosa State Park",
+        "opening_hours": { "open_now": false },
+        "rating": 4.8
+    },
+    "Priest Lake State Park": {
+        "formatted_address": "314 Indian Creek Park Rd, Coolin, ID 83821, United States",
+        "geometry": {
+            "location": { "lat": 48.6176796, "lng": -116.8290993 },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.61901597989272,
+                    "lng": -116.8276963701073
+                },
+                "southwest": {
+                    "lat": 48.61631632010728,
+                    "lng": -116.8303960298928
+                }
+            }
+        },
+        "name": "Priest Lake State Park",
+        "opening_hours": { "open_now": true },
+        "rating": 4.7
+    },
+    "Round Lake State Park": {
+        "formatted_address": "1915 Dufort Rd, Sagle, ID 83860, United States",
+        "geometry": {
+            "location": { "lat": 48.16625699999999, "lng": -116.637296 },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.16760252989273,
+                    "lng": -116.6359248701073
+                },
+                "southwest": {
+                    "lat": 48.16490287010728,
+                    "lng": -116.6386245298927
+                }
+            }
+        },
+        "name": "Round Lake State Park",
+        "opening_hours": { "open_now": true },
+        "rating": 4.6
+    },
+    "Thousand Springs State Park": {
+        "formatted_address": "1205 Thousand Springs Grade, Wendell, ID 83355, United States",
+        "geometry": {
+            "location": { "lat": 42.7436304, "lng": -114.8445797 },
+            "viewport": {
+                "northeast": { "lat": 42.74443712989272, "lng": -114.8397335 },
+                "southwest": { "lat": 42.74173747010727, "lng": -114.8461951 }
+            }
+        },
+        "name": "Thousand Springs State Park - Ritter Island",
+        "opening_hours": { "open_now": false },
+        "rating": 4.7
+    },
+    "Three Island Crossing State Park": {
+        "formatted_address": "1083 S Three Island Park Dr, Glenns Ferry, ID 83623, United States",
+        "geometry": {
+            "location": { "lat": 42.944234, "lng": -115.317993 },
+            "viewport": {
+                "northeast": {
+                    "lat": 42.94558457989272,
+                    "lng": -115.3166181701073
+                },
+                "southwest": {
+                    "lat": 42.94288492010728,
+                    "lng": -115.3193178298927
+                }
+            }
+        },
+        "name": "Three Island Crossing State Park",
+        "opening_hours": { "open_now": false },
+        "rating": 4.5
+    },
+    "Trail of the Coeur d'Alenes": {
+        "formatted_address": "e 83814, 1080 E Lakeshore Dr, Coeur d'Alenes, ID 83814, United States",
+        "geometry": {
+            "location": { "lat": 47.66688689999999, "lng": -116.7717207 },
+            "viewport": {
+                "northeast": {
+                    "lat": 47.66829712989272,
+                    "lng": -116.7702654701072
+                },
+                "southwest": {
+                    "lat": 47.66559747010728,
+                    "lng": -116.7729651298927
+                }
+            }
+        },
+        "name": "Tubbs Hill Trail Marker",
+        "opening_hours": { "open_now": true },
+        "rating": 4.8
+    },
+    "Winchester Lake State Park": {
+        "formatted_address": "1786 Forrest Rd, Winchester, ID 83555, United States",
+        "geometry": {
+            "location": { "lat": 46.2359338, "lng": -116.6275581 },
+            "viewport": {
+                "northeast": {
+                    "lat": 46.23724162989272,
+                    "lng": -116.6263238201073
+                },
+                "southwest": {
+                    "lat": 46.23454197010728,
+                    "lng": -116.6290234798928
+                }
+            }
+        },
+        "name": "Winchester Lake State Park",
+        "opening_hours": { "open_now": false },
+        "rating": 4.4
+    }
+}

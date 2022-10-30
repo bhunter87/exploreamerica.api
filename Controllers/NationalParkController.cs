@@ -43,9 +43,12 @@ public class NationalParkController : ControllerBase
             Console.WriteLine(ordered);
 
             
-            foreach (int item in Enumerable.Range(1,count))
+            foreach (int item in Enumerable.Range(0,count-1))
             {
+                if(ordered[item].Distance <= radiusInMiles)
+                {
                 returnListCoords.Add(ordered[item]);
+                }
             }
             
             return returnListCoords;

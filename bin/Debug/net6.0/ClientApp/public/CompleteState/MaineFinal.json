@@ -1,0 +1,673 @@
+{
+    "Allagash Wilderness Waterway": {
+        "formatted_address": "Maine 04401, United States",
+        "geometry": {
+            "location": { "lat": 46.53635690000001, "lng": -69.3092429 },
+            "viewport": {
+                "northeast": {
+                    "lat": 46.53770672989273,
+                    "lng": -69.30789307010728
+                },
+                "southwest": {
+                    "lat": 46.53500707010728,
+                    "lng": -69.31059272989272
+                }
+            }
+        },
+        "name": "Allagash Wilderness Waterway",
+        "rating": 4.7
+    },
+    "Androscoggin Riverlands": {
+        "formatted_address": "Center Bridge Rd, Turner, ME 04282, United States",
+        "geometry": {
+            "location": { "lat": 44.2611529, "lng": -70.1877495 },
+            "viewport": {
+                "northeast": {
+                    "lat": 44.26249797989271,
+                    "lng": -70.18639992010726
+                },
+                "southwest": {
+                    "lat": 44.25979832010727,
+                    "lng": -70.18909957989271
+                }
+            }
+        },
+        "name": "Androscoggin Riverlands State Park",
+        "rating": 4.5
+    },
+    "Aroostook State Park": {
+        "formatted_address": "87 State Park Rd, Presque Isle, ME 04769, United States",
+        "geometry": {
+            "location": { "lat": 46.6155351, "lng": -68.0084378 },
+            "viewport": {
+                "northeast": {
+                    "lat": 46.61690932989271,
+                    "lng": -68.00702962010728
+                },
+                "southwest": {
+                    "lat": 46.61420967010727,
+                    "lng": -68.00972927989272
+                }
+            }
+        },
+        "name": "Aroostook State Park",
+        "opening_hours": { "open_now": true },
+        "rating": 4.7
+    },
+    "Baxter State Park": {
+        "formatted_address": "Millinocket, ME 04462, United States",
+        "geometry": {
+            "location": { "lat": 46.0273218, "lng": -68.9427702 },
+            "viewport": {
+                "northeast": {
+                    "lat": 46.02867162989272,
+                    "lng": -68.94142037010727
+                },
+                "southwest": {
+                    "lat": 46.02597197010728,
+                    "lng": -68.94412002989272
+                }
+            }
+        },
+        "name": "Baxter State Park",
+        "opening_hours": { "open_now": false },
+        "rating": 4.8
+    },
+    "Birch Point State Park": {
+        "formatted_address": "459 S Shore Dr, Owls Head, ME 04854, United States",
+        "geometry": {
+            "location": { "lat": 44.0413911, "lng": -69.09718029999999 },
+            "viewport": {
+                "northeast": {
+                    "lat": 44.04260852989272,
+                    "lng": -69.09637172010727
+                },
+                "southwest": {
+                    "lat": 44.03990887010728,
+                    "lng": -69.09907137989272
+                }
+            }
+        },
+        "name": "Birch Point Beach State Park",
+        "opening_hours": { "open_now": true },
+        "rating": 4.6
+    },
+    "Bradbury Mountain State Park": {
+        "formatted_address": "528 Hallowell Rd, Pownal, ME 04069, United States",
+        "geometry": {
+            "location": { "lat": 43.8992268, "lng": -70.1791503 },
+            "viewport": {
+                "northeast": {
+                    "lat": 43.90055442989273,
+                    "lng": -70.17775127010727
+                },
+                "southwest": {
+                    "lat": 43.89785477010729,
+                    "lng": -70.18045092989271
+                }
+            }
+        },
+        "name": "Bradbury Mountain State Park",
+        "opening_hours": { "open_now": false },
+        "rating": 4.7
+    },
+    "Camden Hills State Park": {
+        "formatted_address": "280 Belfast Rd, Camden, ME 04843, United States",
+        "geometry": {
+            "location": { "lat": 44.2310537, "lng": -69.04829959999999 },
+            "viewport": {
+                "northeast": {
+                    "lat": 44.23224987989272,
+                    "lng": -69.04632867010727
+                },
+                "southwest": {
+                    "lat": 44.22955022010728,
+                    "lng": -69.04902832989272
+                }
+            }
+        },
+        "name": "Camden Hills State Park",
+        "opening_hours": { "open_now": true },
+        "rating": 4.7
+    },
+    "Cobscook Bay State Park": {
+        "formatted_address": "40 S Edmunds Rd, Dennysville, ME 04628, United States",
+        "geometry": {
+            "location": { "lat": 44.84034330000001, "lng": -67.15078 },
+            "viewport": {
+                "northeast": {
+                    "lat": 44.84174002989273,
+                    "lng": -67.14945357010727
+                },
+                "southwest": {
+                    "lat": 44.83904037010728,
+                    "lng": -67.15215322989272
+                }
+            }
+        },
+        "name": "Cobscook Bay State Park",
+        "opening_hours": { "open_now": true },
+        "rating": 4.6
+    },
+    "Crescent Beach State Park": {
+        "formatted_address": "109 Bowery Beach Rd, Cape Elizabeth, ME 04107, United States",
+        "geometry": {
+            "location": { "lat": 43.567158, "lng": -70.23775959999999 },
+            "viewport": {
+                "northeast": {
+                    "lat": 43.56855912989272,
+                    "lng": -70.23638782010727
+                },
+                "southwest": {
+                    "lat": 43.56585947010728,
+                    "lng": -70.23908747989272
+                }
+            }
+        },
+        "name": "Crescent Beach State Park",
+        "opening_hours": { "open_now": false },
+        "rating": 4.6
+    },
+    "Damariscotta Lake State Park": {
+        "formatted_address": "8 State Park Road, Jefferson, ME 04348, United States",
+        "geometry": {
+            "location": { "lat": 44.1982869, "lng": -69.4524812 },
+            "viewport": {
+                "northeast": {
+                    "lat": 44.19960902989272,
+                    "lng": -69.45113132010728
+                },
+                "southwest": {
+                    "lat": 44.19690937010728,
+                    "lng": -69.45383097989273
+                }
+            }
+        },
+        "name": "Damariscotta Lake State Park",
+        "rating": 4.6
+    },
+    "Ferry Beach State Park": {
+        "formatted_address": "95 Bayview Rd, Saco, ME 04072, United States",
+        "geometry": {
+            "location": { "lat": 43.47892, "lng": -70.38963009999999 },
+            "viewport": {
+                "northeast": {
+                    "lat": 43.47990567989272,
+                    "lng": -70.38871449999999
+                },
+                "southwest": {
+                    "lat": 43.47720602010727,
+                    "lng": -70.39237690000002
+                }
+            }
+        },
+        "name": "Ferry Beach State Park",
+        "opening_hours": { "open_now": false },
+        "rating": 4.6
+    },
+    "Fort Point State Park": {
+        "formatted_address": "207 Lighthouse Rd, Stockton Springs, ME 04981, United States",
+        "geometry": {
+            "location": { "lat": 44.4670152, "lng": -68.8135131 },
+            "viewport": {
+                "northeast": {
+                    "lat": 44.46834797989272,
+                    "lng": -68.81215517010727
+                },
+                "southwest": {
+                    "lat": 44.46564832010728,
+                    "lng": -68.81485482989272
+                }
+            }
+        },
+        "name": "Fort Point State Park",
+        "rating": 4.5
+    },
+    "Grafton Notch State Park": {
+        "formatted_address": "Grafton Notch, North Oxford, ME 04261, USA",
+        "geometry": {
+            "location": { "lat": 44.5933909, "lng": -70.94785259999999 },
+            "viewport": {
+                "northeast": { "lat": 44.601336, "lng": -70.9318452 },
+                "southwest": { "lat": 44.5854447, "lng": -70.96386 }
+            }
+        },
+        "name": "Grafton Notch",
+        "rating": 5
+    },
+    "Holbrook Island Sanctuary State Park": {
+        "formatted_address": "172 Indian Bar Rd, Harborside, ME 04642, United States",
+        "geometry": {
+            "location": { "lat": 44.352034, "lng": -68.7943387 },
+            "viewport": {
+                "northeast": {
+                    "lat": 44.36239644999999,
+                    "lng": -68.79232942010728
+                },
+                "southwest": {
+                    "lat": 44.34857985000001,
+                    "lng": -68.79502907989271
+                }
+            }
+        },
+        "name": "Holbrook Island Sanctuary",
+        "opening_hours": { "open_now": true },
+        "rating": 4.7
+    },
+    "Lake St. George State Park": {
+        "formatted_address": "278 Belfast Augusta Rd, Liberty, ME 04949, United States",
+        "geometry": {
+            "location": { "lat": 44.3976277, "lng": -69.347115 },
+            "viewport": {
+                "northeast": {
+                    "lat": 44.39898377989272,
+                    "lng": -69.34580237010728
+                },
+                "southwest": {
+                    "lat": 44.39628412010728,
+                    "lng": -69.34850202989273
+                }
+            }
+        },
+        "name": "Lake St. George State Park",
+        "opening_hours": { "open_now": false },
+        "rating": 4.6
+    },
+    "Lamoine State Park": {
+        "formatted_address": "State Park Rd, Lamoine, ME 04605, USA",
+        "geometry": {
+            "location": { "lat": 44.4533365, "lng": -68.298225 },
+            "viewport": {
+                "northeast": {
+                    "lat": 44.45468632989272,
+                    "lng": -68.29687517010728
+                },
+                "southwest": {
+                    "lat": 44.45198667010728,
+                    "lng": -68.29957482989273
+                }
+            }
+        },
+        "name": "State Park Rd"
+    },
+    "Lily Bay State Park": {
+        "formatted_address": "425 Lily Bay Rd, Beaver Cove, ME 04441, United States",
+        "geometry": {
+            "location": { "lat": 45.57011800000001, "lng": -69.5511344 },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.57206442989272,
+                    "lng": -69.55024377010727
+                },
+                "southwest": {
+                    "lat": 45.56936477010728,
+                    "lng": -69.55294342989272
+                }
+            }
+        },
+        "name": "Lily Bay State Park",
+        "opening_hours": { "open_now": true },
+        "rating": 4.8
+    },
+    "Mackworth Island": {
+        "formatted_address": "Mackworth Island, Falmouth, ME 04105, USA",
+        "geometry": {
+            "location": { "lat": 43.68963220000001, "lng": -70.2317808 },
+            "viewport": {
+                "northeast": { "lat": 43.6920445, "lng": -70.226373 },
+                "southwest": { "lat": 43.68622879999999, "lng": -70.2363555 }
+            }
+        },
+        "name": "Mackworth Island",
+        "rating": 4.8
+    },
+    "Moose Point State Park": {
+        "formatted_address": "310 W Main St, Searsport, ME 04974, United States",
+        "geometry": {
+            "location": { "lat": 44.4349772, "lng": -68.9447201 },
+            "viewport": {
+                "northeast": {
+                    "lat": 44.43626677989272,
+                    "lng": -68.94335467010727
+                },
+                "southwest": {
+                    "lat": 44.43356712010727,
+                    "lng": -68.9460543298927
+                }
+            }
+        },
+        "name": "Moose Point State Park",
+        "rating": 4.6
+    },
+    "Mount Blue State Park": {
+        "formatted_address": "297 Center Hill Rd, Weld, ME 04285, United States",
+        "geometry": {
+            "location": { "lat": 44.7173939, "lng": -70.3946614 },
+            "viewport": {
+                "northeast": { "lat": 44.721608, "lng": -70.38512435 },
+                "southwest": { "lat": 44.70475160000002, "lng": -70.42327255 }
+            }
+        },
+        "name": "Mt. Blue State Park",
+        "rating": 4.7
+    },
+    "Mount Kineo State Park": {
+        "formatted_address": "Greenville, ME 04441, United States",
+        "geometry": {
+            "location": { "lat": 45.7029079, "lng": -69.73937760000001 },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.70425772989273,
+                    "lng": -69.73802777010728
+                },
+                "southwest": {
+                    "lat": 45.70155807010728,
+                    "lng": -69.74072742989273
+                }
+            }
+        },
+        "name": "Mount Kineo State Park",
+        "rating": 4.9
+    },
+    "Owls Head Light State Park": {
+        "formatted_address": "186 Lighthouse Rd, Owls Head, ME 04854, United States",
+        "geometry": {
+            "location": { "lat": 44.0912743, "lng": -69.05001159999999 },
+            "viewport": {
+                "northeast": {
+                    "lat": 44.09208675000001,
+                    "lng": -69.04690690000001
+                },
+                "southwest": { "lat": 44.08883695, "lng": -69.0510465 }
+            }
+        },
+        "name": "Owls Head State Park",
+        "opening_hours": { "open_now": true },
+        "rating": 4.8
+    },
+    "Peacock Beach State Park": {
+        "formatted_address": "Peacock Beach, US-201, Richmond, ME 04357, United States",
+        "geometry": {
+            "location": { "lat": 44.15965560000001, "lng": -69.8637119 },
+            "viewport": {
+                "northeast": { "lat": 44.1676598, "lng": -69.84770449999999 },
+                "southwest": { "lat": 44.1516503, "lng": -69.87971929999999 }
+            }
+        },
+        "name": "Peacock Beach",
+        "opening_hours": { "open_now": true },
+        "rating": 3.8
+    },
+    "Peaks-Kenny State Park": {
+        "formatted_address": "401 State Park Rd, Dover-Foxcroft, ME 04426, United States",
+        "geometry": {
+            "location": { "lat": 45.258, "lng": -69.27 },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.25923967989272,
+                    "lng": -69.26860247010728
+                },
+                "southwest": {
+                    "lat": 45.25654002010727,
+                    "lng": -69.27130212989272
+                }
+            }
+        },
+        "name": "Peaks-Kenny State Park",
+        "opening_hours": { "open_now": true },
+        "rating": 4.8
+    },
+    "Penobscot River Corridor": {
+        "formatted_address": "401 State Park Rd, Dover-Foxcroft, ME 04426, United States",
+        "geometry": {
+            "location": { "lat": 45.258, "lng": -69.27 },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.25923967989272,
+                    "lng": -69.26860247010728
+                },
+                "southwest": {
+                    "lat": 45.25654002010727,
+                    "lng": -69.27130212989272
+                }
+            }
+        },
+        "name": "Peaks-Kenny State Park",
+        "opening_hours": { "open_now": true },
+        "rating": 4.8
+    },
+    "Popham Beach State Park": {
+        "formatted_address": "711 Popham Rd, Phippsburg, ME 04562, United States",
+        "geometry": {
+            "location": { "lat": 43.73624359999999, "lng": -69.797943 },
+            "viewport": {
+                "northeast": {
+                    "lat": 43.73815292989272,
+                    "lng": -69.79626472010727
+                },
+                "southwest": {
+                    "lat": 43.73545327010728,
+                    "lng": -69.79896437989272
+                }
+            }
+        },
+        "name": "Popham Beach State Park",
+        "opening_hours": { "open_now": false },
+        "rating": 4.8
+    },
+    "Quoddy Head State Park": {
+        "formatted_address": "973 S Lubec Rd, Lubec, ME 04652, United States",
+        "geometry": {
+            "location": { "lat": 44.8159941, "lng": -66.9528303 },
+            "viewport": {
+                "northeast": {
+                    "lat": 44.81733677989272,
+                    "lng": -66.95150902010728
+                },
+                "southwest": {
+                    "lat": 44.81463712010727,
+                    "lng": -66.95420867989273
+                }
+            }
+        },
+        "name": "Quoddy Head State Park",
+        "opening_hours": { "open_now": true },
+        "rating": 4.8
+    },
+    "Range Ponds State Park": {
+        "formatted_address": "26 State Park Rd, Poland Spring, ME 04274, United States",
+        "geometry": {
+            "location": { "lat": 44.038167, "lng": -70.342218 },
+            "viewport": {
+                "northeast": {
+                    "lat": 44.03948482989273,
+                    "lng": -70.34090892010727
+                },
+                "southwest": {
+                    "lat": 44.03678517010729,
+                    "lng": -70.34360857989272
+                }
+            }
+        },
+        "name": "Range Pond State Park",
+        "opening_hours": { "open_now": true },
+        "rating": 4.7
+    },
+    "Rangeley Lake State Park": {
+        "formatted_address": "32 HC, Rangeley, ME 04970, United States",
+        "geometry": {
+            "location": { "lat": 44.9260174, "lng": -70.704979 },
+            "viewport": {
+                "northeast": {
+                    "lat": 44.92741612989272,
+                    "lng": -70.70350372010728
+                },
+                "southwest": {
+                    "lat": 44.92471647010727,
+                    "lng": -70.70620337989271
+                }
+            }
+        },
+        "name": "Rangeley Lake State Park",
+        "rating": 4.8
+    },
+    "Reid State Park": {
+        "formatted_address": "375 Seguinland Rd, Georgetown, ME 04548, United States",
+        "geometry": {
+            "location": { "lat": 43.7751155, "lng": -69.7327073 },
+            "viewport": {
+                "northeast": {
+                    "lat": 43.77648327989272,
+                    "lng": -69.73150252010727
+                },
+                "southwest": {
+                    "lat": 43.77378362010728,
+                    "lng": -69.73420217989272
+                }
+            }
+        },
+        "name": "Reid State Park",
+        "rating": 4.7
+    },
+    "Roque Bluffs State Park": {
+        "formatted_address": "145 Schoppee Point Rd, Roque Bluffs, ME 04654, United States",
+        "geometry": {
+            "location": { "lat": 44.6111859, "lng": -67.4863529 },
+            "viewport": {
+                "northeast": {
+                    "lat": 44.61239267989271,
+                    "lng": -67.48491942010727
+                },
+                "southwest": {
+                    "lat": 44.60969302010727,
+                    "lng": -67.48761907989272
+                }
+            }
+        },
+        "name": "Roque Bluffs State Park",
+        "rating": 4.7
+    },
+    "Sebago Lake State Park": {
+        "formatted_address": "11 Park Access Rd, Casco, ME 04015, United States",
+        "geometry": {
+            "location": { "lat": 43.9299125, "lng": -70.5835372 },
+            "viewport": {
+                "northeast": {
+                    "lat": 43.93130707989272,
+                    "lng": -70.58220977010727
+                },
+                "southwest": {
+                    "lat": 43.92860742010728,
+                    "lng": -70.5849094298927
+                }
+            }
+        },
+        "name": "Sebago Lake State Park Campground",
+        "opening_hours": { "open_now": true },
+        "rating": 4.6
+    },
+    "Shackford Head State Park": {
+        "formatted_address": "Eastport, ME 04631, United States",
+        "geometry": {
+            "location": { "lat": 44.9015128, "lng": -67.01679279999999 },
+            "viewport": {
+                "northeast": { "lat": 44.90828035000001, "lng": -67.01004535 },
+                "southwest": {
+                    "lat": 44.89925694999999,
+                    "lng": -67.01904194999999
+                }
+            }
+        },
+        "name": "Shackford Head State Park",
+        "opening_hours": {},
+        "rating": 4.4
+    },
+    "Swan Lake State Park": {
+        "formatted_address": "Swan Lake State Park, Swanville, ME 04915, USA",
+        "geometry": {
+            "location": { "lat": 44.563889, "lng": -68.978889 },
+            "viewport": {
+                "northeast": { "lat": 44.57183819999999, "lng": -68.9628816 },
+                "southwest": { "lat": 44.5559387, "lng": -68.9948964 }
+            }
+        },
+        "name": "Swan Lake State Park",
+        "rating": 4.5
+    },
+    "Two Lights State Park": {
+        "formatted_address": "7 Tower Dr, Cape Elizabeth, ME 04107, United States",
+        "geometry": {
+            "location": { "lat": 43.5602487, "lng": -70.2045012 },
+            "viewport": {
+                "northeast": {
+                    "lat": 43.56132312989272,
+                    "lng": -70.20374822010729
+                },
+                "southwest": {
+                    "lat": 43.55862347010727,
+                    "lng": -70.20644787989272
+                }
+            }
+        },
+        "name": "Two Lights State Park",
+        "opening_hours": { "open_now": false },
+        "rating": 4.7
+    },
+    "Vaughan Woods State Park": {
+        "formatted_address": "28 Oldfields Rd, South Berwick, ME 03908, United States",
+        "geometry": {
+            "location": { "lat": 43.2120551, "lng": -70.80910279999999 },
+            "viewport": {
+                "northeast": {
+                    "lat": 43.21340232989272,
+                    "lng": -70.80776817010728
+                },
+                "southwest": {
+                    "lat": 43.21070267010728,
+                    "lng": -70.81046782989273
+                }
+            }
+        },
+        "name": "Vaughan Woods State Park",
+        "opening_hours": { "open_now": true },
+        "rating": 4.7
+    },
+    "Warren Island State Park": {
+        "formatted_address": "1202 Warrens Is, Islesboro, ME 04848, United States",
+        "geometry": {
+            "location": { "lat": 44.2739872, "lng": -68.945904 },
+            "viewport": {
+                "northeast": {
+                    "lat": 44.27533702989272,
+                    "lng": -68.94455417010728
+                },
+                "southwest": {
+                    "lat": 44.27263737010728,
+                    "lng": -68.94725382989272
+                }
+            }
+        },
+        "name": "Warren Island State Park",
+        "opening_hours": { "open_now": true },
+        "rating": 4.8
+    },
+    "Wolfe's Neck Woods State Park": {
+        "formatted_address": "426 Wolfe's Neck Rd, Freeport, ME 04032, United States",
+        "geometry": {
+            "location": { "lat": 43.8225918, "lng": -70.08446909999999 },
+            "viewport": {
+                "northeast": {
+                    "lat": 43.82393357989272,
+                    "lng": -70.08315217010727
+                },
+                "southwest": {
+                    "lat": 43.82123392010728,
+                    "lng": -70.08585182989272
+                }
+            }
+        },
+        "name": "Wolfe's Neck Woods State Park",
+        "opening_hours": { "open_now": false },
+        "rating": 4.8
+    }
+}

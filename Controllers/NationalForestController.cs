@@ -23,40 +23,40 @@ public class NationalForestController : ControllerBase
 
 
     [HttpGet]
-    public List<NationalForest> GetNationalForests(int count = 5, double lat = 0, double lng = 0, int radiusInMiles = 10000)
+    public List<NationalForest> GetNationalForests(int count = 5, double lat = 0, double lng = 0, int radiusInMiles = 1000)
     {
         List<NationalForest> NationalForestList = _context.NationalForest.Include(e=>e.location).ToList();
-        if(lat != 0 && lng != 0)
+        if(lat != 0 || lng != 0)
         {
-        
             // Assigning Distance to each park from current local
+            
             foreach (NationalForest park in NationalForestList)
             {
                 var thisDistance = park.location.CalculateDistanceFromThisCoord(lat, lng, park.location.lat, park.location.lng);
                 park.Distance = (int)thisDistance;
-
             }
             // Order the list asscending by distance
             List<NationalForest> ordered = NationalForestList.OrderBy(e=> e.Distance).ToList();
             // new list to populate based on the Count param
             List<NationalForest> returnListCoords = new List<NationalForest>();
-            Console.WriteLine(ordered.Count());
-            Console.WriteLine(ordered);
-
-            
-            foreach (int item in Enumerable.Range(1,count))
+            foreach (int item in Enumerable.Range(0,count-1))
             {
+                if(ordered[item].Distance <= radiusInMiles)
+                {
                 returnListCoords.Add(ordered[item]);
+                }
             }
-            
             return returnListCoords;
         }
+        else
+        {
         List<NationalForest> single = new List<NationalForest>();
         for (int i = 0; i < count; i++)
         {
             single.Add(NationalForestList[i]);
         }
-    return single;
+        return single;
+        }
     }
 
 
@@ -83,8 +83,6 @@ public class NationalForestController : ControllerBase
                 statesParks.Add(NationalForestList.FirstOrDefault(e=> e.NationalForestId == thisForestState.NationalForestId));
             }
         }
-
-        
         return statesParks;
         
     }
@@ -94,43 +92,3 @@ public class NationalForestController : ControllerBase
 
 
 
-
-    // [HttpGet("park")]
-    // public StatePark GetClosestStatePark(double lat, double lng)
-    // {
-    //     List<StatePark> StateParkList = _context.StateParks.Include(e=>e.location).ToList();
-    //     int distance = int.MaxValue;
-    //     StatePark ClosestPark = null;
-    //     foreach (StatePark park in StateParkList)
-    //     {
-    //         if(ClosestPark == null)
-    //         {
-    //             ClosestPark = park;
-    //         }
-    //         if(park.location.CalculateDistanceFromThisCoord(lat, lng, park.location.lat, park.location.lng) < distance)
-    //         {
-    //             distance = (int)park.location.CalculateDistanceFromThisCoord(lat, lng, park.location.lat, park.location.lng);
-    //             ClosestPark = park;
-    //         }
-    //     }
-    //     return ClosestPark;
-    // }
-
-    // [HttpGet("parks")]
-    // public List<StatePark> GetStateParksInRadius(double lat, double lng, int radiusInMiles = 100, int count = 5)
-    // {
-    //     List<StatePark> StateParkList = _context.StateParks.Include(e=>e.location).ToList();
-        
-    //     List<StatePark> ClosestParks = new List<StatePark>();
-    //     foreach (StatePark park in StateParkList)
-    //     {
-            
-    //         if(park.location.CalculateDistanceFromThisCoord(lat, lng, park.location.lat, park.location.lng) < radiusInMiles && ClosestParks.Count() <= count-1)
-    //         {
-    //             park.Distance = (int)park.location.CalculateDistanceFromThisCoord(lat, lng, park.location.lat, park.location.lng);
-    //             ClosestParks.Add(park);
-    //         }
-
-    //     }
-    //     return ClosestParks.OrderBy(e=> e.Distance).ToList();
-    // }
