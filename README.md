@@ -4,6 +4,10 @@
 Explore America API was built as part of a project during a coding bootcamp. After realizing the many security flaws with regards to access 
 to Google Maps API, I decided to build an app around this project (Wilderness Finder)
 
+##Demo
+
+[![Demo CountPages alpha](https://watch.screencastify.com/v/o4SD67VPy7OMnB3pZ5ok)]
+
 ## Getting Started
 
 API documentation can be found at https://exploreamericaapi.web.app/
