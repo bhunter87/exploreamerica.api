@@ -6,7 +6,7 @@ to Google Maps API, I decided to build an app around this project (Wilderness Fi
 
 ##Demo
 
-[![Demo CountPages alpha](https://watch.screencastify.com/v/o4SD67VPy7OMnB3pZ5ok)]
+![Output sample](https://github.com/bhunter87/ProjectPage/src/img/explore.gif)
 
 ## Getting Started
 
