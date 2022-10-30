@@ -6,7 +6,7 @@ to Google Maps API, I decided to build an app around this project (Wilderness Fi
 
 ## Demo
 
-![Demo](https://github.com/bhunter87/ProjectPage/explore.gif)
+![Demo](explore.gif)
 
 ## Getting Started
 
