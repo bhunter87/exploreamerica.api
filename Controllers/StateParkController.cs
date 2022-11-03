@@ -22,7 +22,6 @@ public class StateParkController : ControllerBase
     [HttpGet]
     public List<StatePark> GetStateParks(int count = 5, double lat = 0, double lng = 0, int radiusInMiles = 10000)
     {
-        Console.WriteLine("ROUTE WAS HITkfjdsfkldjsfjadslkfjsadklfjsdklfjdsalk;fjdsa;kfj");
         
         List<StatePark> StateParkList = _context.StateParks.Include(e=>e.location).Include(e=>e.State).ToList();
         if(lat != 0 && lng != 0)
