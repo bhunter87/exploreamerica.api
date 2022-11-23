@@ -18,9 +18,9 @@
 
 
 ## General Information
-- What - This API is an exhaustive collection of geodata for all state parks, national parks, national forests, and other federal and state attractions.
-- Why - While the data was available, it was not easily accessible, and I felt an open and easy to use collection would be cool!
-- How - Built using a series of web scrapers and crawlers, as well as Google Places API calls to gather data, and C# modeling and Entity Framwork to populate. 
+- *What* - This API is an exhaustive collection of geodata for all state parks, national parks, national forests, and other federal and state attractions.
+- *Why* - While the data was available, it was not easily accessible, and I felt an open and easy to use collection would be cool!
+- *How* - Built using a series of web scrapers and crawlers, as well as Google Places API calls to gather data, and C# modeling and Entity Framwork to populate. 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
