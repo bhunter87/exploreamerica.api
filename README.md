@@ -31,7 +31,7 @@
 
 
 ## Features
-List the ready features here:
+
 - Access to 5000+ geolocations, organized by state, organizational body, and location
 - Includes globally accurate distance from a given point, formatted addresses, and radius search (by state, goecoord, and park type) 
 
@@ -63,8 +63,8 @@ To do:
 
 
 ## Acknowledgements
-Give credit here.
-- Alltrails.com! 
+
+- Alltrails.com! - I love that site and what they do!
 - Many thanks to Max, my instructor at Coding Dojo, who daily endured my questions about things that neither of us had experience in! :)
 
 
