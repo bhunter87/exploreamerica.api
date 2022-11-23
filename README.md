@@ -50,7 +50,7 @@ As mentioned above, when I get a little deeper understanding of API keys and sec
 In addition, my goal is to build out the database with more outdoors and adventure data, like activities within each park, links to reserveamerica.com for camping, etc. 
 
 ## Room for Improvement
-This was the first real thing I built in C#, to the needs for improvement are many! .
+This was the first real thing I built in C#, so the needs for improvement are many! .
 
 Room for improvement:
 - The project's scope grew quickly and I didn't modularize the modeling, so first thing will be to reassess the code structure and move models into their own files for ease of accessability and readability
